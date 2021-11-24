@@ -299,9 +299,9 @@ footer {
   display: flex;
   justify-content: flex-end;
   padding: 10px 0px;
-  background-color: #c2e8c230;
+  background-color: white;
   z-index: 2;
-  border: 1px solid rgba(194, 232, 194, 0.18823529411764706);
+  border-top: 1px solid #707070;
   width: 100%;
 }
 
