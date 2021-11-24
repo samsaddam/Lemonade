@@ -122,6 +122,7 @@ img.cartlogo {
 
 .logout {
   padding-right: 17px;
+  cursor: pointer;
 }
 /* ***************************** ************************************* */
 .popup {
