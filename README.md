@@ -1,7 +1,8 @@
 # Lemonade
 
 ```
-Forum App, with a frontend built in React & Redux and a backend built in Django API.
+This is a Mini E-Commerce project with a frontend built in React & Redux and a backend built in Django API.
+Customers can login and order their favourite tea from the app.
 ```
 
 ## Live Demo
